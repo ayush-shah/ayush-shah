@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ayush-shah/ayush-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+- 👯 I’m looking to collaborate on OpenSource Platforms
+- 💬 Ask me about animes, web series, tech savvy stuff. 
+- 📫 How to reach me: Create an issue [here](https://github.com/ayush-shah/ayush-shah/issues) 
 
-Here are some ideas to get you started:
+### Here are the stats sbout my contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ayush-shah/github-stats">
+<img src="https://github.com/ayush-shah/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ayush-shah/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
