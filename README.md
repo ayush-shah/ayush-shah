@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-- 👯 I’m looking to collaborate on OpenSource Platforms
 - 💬 Ask me about animes, web series, tech savvy stuff. 
 - 📫 How to reach me: Create an issue [here](https://github.com/ayush-shah/ayush-shah/issues) 
 
