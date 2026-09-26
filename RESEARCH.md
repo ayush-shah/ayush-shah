@@ -18,7 +18,7 @@ The user's [commit-search URL](https://github.com/search?q=author%3Aayush-shah+o
 | Of those, merged | 672 | [GitHub merged-PR search](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests), [API query](https://api.github.com/search/issues?q=is%3Apr%20author%3Aayush-shah%20org%3Aopen-metadata%20is%3Apublic%20is%3Amerged&per_page=1) |
 | In public `open-metadata/OpenMetadata` alone | 663 authored, 591 merged | [All PRs](https://github.com/search?q=is%3Apr+author%3Aayush-shah+repo%3Aopen-metadata%2FOpenMetadata&type=pullrequests), [merged PRs](https://github.com/search?q=is%3Apr+author%3Aayush-shah+repo%3Aopen-metadata%2FOpenMetadata+is%3Amerged&type=pullrequests) |
 
-Merged public PRs are concentrated in `OpenMetadata` (591), followed by public documentation repositories (`docs-v1-legacy` 26; `docs-om` 22), `openmetadata-demo` (9), and smaller supporting repos. These were counted from the public-only GitHub API query above. An authenticated search without `is:public` also sees private organization work; do not use that higher count, name private repositories, or cite private PRs in the README.
+Merged public PRs are concentrated in `OpenMetadata` (591), followed by public documentation repositories (`docs-v1-legacy` 26; `docs-om` 22), `openmetadata-demo` (9), and smaller supporting repos. These were counted from the public-only GitHub API query above.
 
 **README guidance:** “Hundreds of merged OpenMetadata pull requests” is durable. If using the exact 672 figure, label it “as of September 2026” and link the public-only query. These are PR counts, not lines of code, active-user impact, or independent project ownership.
 
@@ -82,5 +82,5 @@ This draft is intentionally short; the README can use separate, linked cards for
 
 - GitHub bio/company/location are self-reported and may change. No website, LinkedIn, public email, speaking history, degree, or employer dates were verified from the account. Do not invent contact links, headshots, endorsements, or impact metrics.
 - A merged PR proves an accepted contribution at merge time, not exclusive or ongoing ownership of a connector, subsystem, or employer role. Some PRs include generated review summaries; the examples above were checked against merge status and changed file paths.
-- The exact PR count is a point-in-time search result. The public-only qualifier matters because authenticated search without it includes private organization work. Keep private results out of public profile content.
+- The exact PR count is a point-in-time search result. The `is:public` qualifier keeps the count scoped to publicly accessible repositories.
 - Original personal repositories are generally older and smaller than the upstream OpenMetadata work. Lead with upstream merged contributions; show one or two original side projects only if a personal-project section helps the design.
