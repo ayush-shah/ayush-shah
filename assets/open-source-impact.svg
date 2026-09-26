@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="195" viewBox="0 0 520 195" role="img" aria-labelledby="title desc">
+  <title id="title">Open source impact</title>
+  <desc id="desc">More than 670 merged public pull requests across the open-metadata GitHub organization, verified September 2026.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#131C39"/>
+      <stop offset="1" stop-color="#0C333C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#8493FF"/>
+      <stop offset="1" stop-color="#52E0C6"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="195" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="518" height="193" rx="17" fill="none" stroke="#7C8CFF" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M 30 34 L 174 34" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="30" y="64" fill="#B6C8ED" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="2">OPEN SOURCE IMPACT</text>
+  <text x="27" y="137" fill="#F7FAFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="78" font-weight="800" letter-spacing="-2">670+</text>
+  <text x="258" y="110" fill="#E1E9FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">merged public PRs</text>
+  <text x="258" y="137" fill="#A5B9D8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17">in open-metadata</text>
+  <text x="30" y="170" fill="#8298BA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Verified September 2026 · See linked pull requests for the work behind the number</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Shah</title>
+  <desc id="desc">Software developer and open source contributor. Decorative dark banner with connected data nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#142349"/>
+      <stop offset="1" stop-color="#092C38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C8CFF"/>
+      <stop offset="1" stop-color="#4DE2C5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#B4C5F8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1072" cy="55" r="150" fill="#4DE2C5" opacity=".06"/>
+  <circle cx="840" cy="300" r="190" fill="#7C8CFF" opacity=".055"/>
+  <path d="M 48 48 L 152 48" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="48" y="110" fill="#90A6D8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="700" letter-spacing="5">HELLO, I’M</text>
+  <text x="45" y="185" fill="#F7FAFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">AYUSH SHAH</text>
+  <text x="48" y="229" fill="#B8C9ED" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="500">Software developer  ·  Open source contributor</text>
+  <rect x="48" y="252" width="226" height="35" rx="17.5" fill="#7C8CFF" fill-opacity=".17" stroke="#7C8CFF" stroke-opacity=".5"/>
+  <text x="68" y="276" fill="#D9DFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" letter-spacing=".6">OPENMETADATA</text>
+  <rect x="286" y="252" width="160" height="35" rx="17.5" fill="#4DE2C5" fill-opacity=".12" stroke="#4DE2C5" stroke-opacity=".45"/>
+  <text x="306" y="276" fill="#B9F6E9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" letter-spacing=".6">BUILD IN PUBLIC</text>
+
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 787 154 L 895 93 L 1011 150 L 895 210 Z" stroke-opacity=".62" stroke-width="2"/>
+    <path d="M 895 93 L 895 210 M 787 154 L 787 209 L 895 270 L 1011 209 L 1011 150 M 787 209 L 895 210 L 1011 209" stroke-opacity=".32" stroke-width="2"/>
+    <path d="M 895 93 L 1054 66 M 1011 150 L 1093 162 M 895 270 L 1050 289 M 787 154 L 735 116 M 787 209 L 725 258" stroke-opacity=".58" stroke-width="2"/>
+  </g>
+  <g fill="#4DE2C5" filter="url(#glow)" opacity=".5">
+    <circle cx="895" cy="93" r="8"/><circle cx="1011" cy="150" r="8"/><circle cx="895" cy="270" r="8"/>
+  </g>
+  <g fill="#D7FFFA" stroke="#4DE2C5" stroke-width="3">
+    <circle cx="895" cy="93" r="7"/><circle cx="1011" cy="150" r="7"/><circle cx="895" cy="270" r="7"/>
+    <circle cx="787" cy="154" r="6"/><circle cx="787" cy="209" r="6"/>
+    <circle cx="1054" cy="66" r="5"/><circle cx="1093" cy="162" r="5"/>
+    <circle cx="1050" cy="289" r="5"/><circle cx="735" cy="116" r="5"/><circle cx="725" cy="258" r="5"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#A7BBEE" stroke-opacity=".18" stroke-width="2"/>
+</svg>
