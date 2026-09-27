@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="252" viewBox="0 0 660 252" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Shah</title>
+  <desc id="desc">Mobile banner with Ayush Shah's name and connected data nodes.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#090E22"/><stop offset=".56" stop-color="#142044"/><stop offset="1" stop-color="#0A2635"/></linearGradient>
+    <radialGradient id="rightGlow" cx="93%" cy="0%" r="70%"><stop offset="0" stop-color="#154650" stop-opacity=".48"/><stop offset="1" stop-color="#154650" stop-opacity="0"/></radialGradient>
+    <linearGradient id="network" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#858DFF"/><stop offset="1" stop-color="#57EAD0"/></linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M 60 0 H 0 V 60" fill="none" stroke="#B5C7FF" stroke-opacity=".065" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="660" height="252" rx="20" fill="url(#base)"/>
+  <rect width="660" height="252" rx="20" fill="url(#rightGlow)"/>
+  <rect width="660" height="252" rx="20" fill="url(#grid)"/>
+  <text x="36" y="55" fill="#A8B9EF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="750" letter-spacing="5">HELLO, I'M</text>
+  <text x="34" y="132" fill="#F4F7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="70" font-weight="800" letter-spacing="-4">AYUSH</text>
+  <text x="34" y="204" fill="#F4F7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="70" font-weight="800" letter-spacing="-4">SHAH</text>
+  <g transform="translate(425 72) scale(.58)">
+    <g fill="none" stroke="url(#network)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".86">
+      <path d="M19 83H84l45-53h57l49 58h78M84 83l47 56h56l48-51M186 30v109M235 88l55 54M235 88l47-55"/>
+    </g>
+    <g fill="#BAFFEE" stroke="#6BEDD9" stroke-width="3">
+      <circle cx="19" cy="83" r="5"/><circle cx="84" cy="83" r="7"/><circle cx="129" cy="30" r="7"/><circle cx="131" cy="139" r="7"/>
+      <circle cx="186" cy="30" r="8"/><circle cx="186" cy="139" r="8"/><circle cx="235" cy="88" r="12"/><circle cx="313" cy="88" r="6"/>
+      <circle cx="290" cy="142" r="5"/><circle cx="282" cy="33" r="5"/>
+    </g>
+    <g fill="#9FB1D2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="700" letter-spacing="2">
+      <text x="4" y="115">SOURCE</text><text x="151" y="165">INGEST</text><text x="243" y="122">CONTEXT</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="658" height="250" rx="19" fill="none" stroke="#45518C" stroke-width="2"/>
+</svg>

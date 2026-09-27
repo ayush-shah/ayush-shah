@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ayush Shah — building the context layer for trusted data" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+    <img src="./assets/header.svg" alt="Ayush Shah — building the context layer for trusted data" width="100%" />
+  </picture>
 </p>
 
 <h1 align="center">Backend &amp; Data Platform Engineer</h1>
