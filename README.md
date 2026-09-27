@@ -8,11 +8,18 @@
   <img alt="Based in Mumbai, India" src="https://img.shields.io/badge/Mumbai-India-175A85?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ayush-shah"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahayushp/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://x.com/aidevatwork"><img alt="X profile" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
+  <a href="https://dev.to/ayushshah"><img alt="DEV.to profile" src="https://img.shields.io/badge/DEV.to-Read-0A0A0A?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" /></a>
+</p>
+
 ## 👋 About me
 
-I'm **Ayush Shah**, a software developer in Mumbai and an open-source contributor to [OpenMetadata](https://github.com/open-metadata/OpenMetadata) since 2021. I work on metadata ingestion, connectors, data quality, and the Python SDK. My public contributions range from dashboard integrations to cloud authentication, data contracts, and ingestion reliability. My broader experience includes identity and SSO integrations, cloud data platforms, AWS infrastructure, and containerized backend services.
+I'm **Ayush Shah**, a software developer at [Collate](https://www.getcollate.io/) in Mumbai. Since 2021, I've worked on [OpenMetadata](https://github.com/open-metadata/OpenMetadata) and Collate, starting in OpenMetadata's early days. My work spans **data governance, data lineage, observability, discovery, and Context Center**, along with metadata ingestion, connectors, data quality, the Python SDK, and backend reliability.
 
-I work at **Deuex Solutions** and previously worked at **Gracenote**.
+I investigate issues through root cause analysis, debugging, and bug fixes. I coordinate a five-person support and documentation team: four in support and one in documentation. I've also contributed extensively to [OpenMetadata documentation (`docs-om`)](https://github.com/open-metadata/docs-om) and Collate documentation (`docs-collate`).
 
 ## 🌟 Open source at OpenMetadata
 
@@ -28,19 +35,22 @@ Some contributions that show the breadth of that work:
 | ☁️ **Cloud and data lake ingestion** | Added [AWS RDS IAM authentication for MySQL and PostgreSQL](https://github.com/open-metadata/OpenMetadata/pull/11937) and [data lake manifest support, profiler fixes, and array/JSON column handling](https://github.com/open-metadata/OpenMetadata/pull/13017). |
 | 📊 **Data quality and profiling** | Added [data-quality and profiler support for Databricks Unity Catalog](https://github.com/open-metadata/OpenMetadata/pull/14424) and improved [BigQuery credentials and nested-column handling](https://github.com/open-metadata/OpenMetadata/pull/20085). |
 | 🧰 **SDK and backend reliability** | Added [Python SDK methods for data-contract retrieval and validation](https://github.com/open-metadata/OpenMetadata/pull/26082), [ingestion configuration validation and migration](https://github.com/open-metadata/OpenMetadata/pull/29566), and [parameterized SQL query construction](https://github.com/open-metadata/OpenMetadata/pull/24902). |
+| 📚 **Documentation and workflows** | Improved [Context Center MCP documentation](https://github.com/open-metadata/docs-om/pull/401) and the [search configuration guide](https://github.com/open-metadata/docs-om/pull/382); updated a [GitHub Actions release workflow](https://github.com/open-metadata/OpenMetadata/pull/30631). |
 
 Explore the wider record: [merged public PRs](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests) · [commits across open-metadata](https://github.com/search?q=author%3Aayush-shah+org%3Aopen-metadata&type=commits&ref=advsearch).
 
 ## 🧭 Experience and preferred tools
 
-Beyond the public PRs above, I've worked with:
+Across my work at Collate and earlier projects, I've worked with:
 
 | Area | Experience |
 | --- | --- |
-| 🔐 **Identity and access** | Okta and SSO integrations. |
-| ❄️ **Data and metadata** | Deep experience with Snowflake; Databricks, BigQuery, data lakes, and Amazon Redshift; Power BI and Tableau metadata. |
+| 🔐 **Identity and access** | Okta, Google, Keycloak, OAuth, and SSO integrations. |
+| ❄️ **Data platforms** | In-depth Snowflake experience; Databricks, BigQuery, data lakes, and Amazon Redshift. |
+| 🔌 **Metadata integrations** | Tableau and Power BI metadata, Airflow, OpenSearch Dashboards, Fivetran pipelines, and other sources. |
+| 🔎 **Search and streaming** | OpenSearch and Elasticsearch; Kafka connections, including bootstrap servers and Schema Registry. |
 | ☁️ **AWS** | Secrets Manager, EC2, Application Load Balancer (ALB), Glue, RDS, and Systems Manager Parameter Store. |
-| 🧱 **Backend and infrastructure** | Django, Docker, and Kubernetes. |
+| 🧱 **Backend and delivery** | Java, Dropwizard, Django, Docker, Kubernetes, and GitHub Actions. |
 | 🛠️ **Development tools** | Most comfortable with Claude Code, Codex, VS Code, and IntelliJ IDEA. |
 
 ## 🚀 Selected builds
