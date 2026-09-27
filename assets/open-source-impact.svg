@@ -1,22 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="195" viewBox="0 0 520 195" role="img" aria-labelledby="title desc">
-  <title id="title">Open source impact</title>
-  <desc id="desc">More than 670 merged public pull requests across the open-metadata GitHub organization, verified September 2026.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="205" viewBox="0 0 520 205" role="img" aria-labelledby="title desc">
+  <title id="title">Public OpenMetadata contributions</title>
+  <desc id="desc">672 authored pull requests merged in public open-metadata repositories, snapshot 27 Sep 2026.</desc>
   <defs>
-    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#131C39"/>
-      <stop offset="1" stop-color="#0C333C"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0" stop-color="#8493FF"/>
-      <stop offset="1" stop-color="#52E0C6"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#151B39"/><stop offset="1" stop-color="#103942"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#8D9AFF"/><stop offset="1" stop-color="#4DE2C5"/></linearGradient>
   </defs>
-  <rect width="520" height="195" rx="18" fill="url(#background)"/>
-  <rect x="1" y="1" width="518" height="193" rx="17" fill="none" stroke="#7C8CFF" stroke-opacity=".35" stroke-width="2"/>
-  <path d="M 30 34 L 174 34" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <text x="30" y="64" fill="#B6C8ED" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="2">OPEN SOURCE IMPACT</text>
-  <text x="27" y="137" fill="#F7FAFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="78" font-weight="800" letter-spacing="-2">670+</text>
-  <text x="258" y="110" fill="#E1E9FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">merged public PRs</text>
-  <text x="258" y="137" fill="#A5B9D8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17">in open-metadata</text>
-  <text x="30" y="170" fill="#8298BA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Verified September 2026 · See linked pull requests for the work behind the number</text>
+  <rect width="520" height="205" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="518" height="203" rx="17" fill="none" stroke="#8996D9" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M 28 31 H 171" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="28" y="61" fill="#C0CCEF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" letter-spacing="2">PUBLIC OPEN SOURCE WORK</text>
+  <text x="26" y="144" fill="#F6F9FF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="88" font-weight="800" letter-spacing="-3">672</text>
+  <text x="29" y="173" fill="#C4D8E4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="600">merged PRs across open-metadata</text>
+  <text x="28" y="192" fill="#94AACA" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">Public GitHub search snapshot · 27 Sep 2026</text>
 </svg>

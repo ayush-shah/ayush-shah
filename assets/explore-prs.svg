@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="44" viewBox="0 0 222 44" role="img" aria-labelledby="title">
+  <title id="title">Explore merged PRs</title>
+  <rect x="1" y="1" width="220" height="42" rx="10" fill="#1A2541" stroke="#7F91C7" stroke-opacity=".8"/>
+  <circle cx="21" cy="19" r="3" fill="none" stroke="#B7C6F6" stroke-width="2"/>
+  <circle cx="21" cy="29" r="3" fill="none" stroke="#B7C6F6" stroke-width="2"/>
+  <path d="M 21 22 V 26 M 27 19 H 30 Q 34 19 34 23 V 29" fill="none" stroke="#B7C6F6" stroke-width="2" stroke-linecap="round"/>
+  <text x="48" y="28" fill="#EDF2FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700">Explore merged PRs</text>
+</svg>
