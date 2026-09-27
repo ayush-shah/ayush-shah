@@ -65,13 +65,13 @@ Connecting secure infrastructure to data services and reliable developer workflo
   <img src="https://skillicons.dev/icons?i=python,java,django,elasticsearch,aws,docker,kubernetes,githubactions" alt="Selected tool icons: Python, Java, Django, Elasticsearch, AWS, Docker, Kubernetes, and GitHub Actions" />
 </p>
 
-## Open source activity
+## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&amp;type=pullrequests"><img src="./assets/merged-pr-activity.svg" alt="Merged public pull requests in the open-metadata organization over the latest six months" width="520" /></a>
+  <a href="https://github.com/ayush-shah"><img src="./assets/contribution-activity.svg" alt="Six months of contribution activity shown on Ayush Shah's public GitHub profile" width="520" /></a>
 </p>
 
-The cards use [GitHub's public merged-PR search](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests). They count authored PRs merged in public `open-metadata` repositories; they are not a measure of code volume or project ownership. See the [refresh script](./scripts/update_profile_stats.py) and [scheduled workflow](./.github/workflows/update-profile-stats.yml).
+The heatmap shows days with contributions on my [publicly visible GitHub calendar](https://github.com/ayush-shah). The PR count above separately covers authored PRs merged in public `open-metadata` repositories. Both cards come from [the refresh script](./scripts/update_profile_stats.py) and [scheduled workflow](./.github/workflows/update-profile-stats.yml).
 
 ## Beyond the code
 
