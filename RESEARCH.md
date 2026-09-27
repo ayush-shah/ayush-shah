@@ -1,11 +1,11 @@
 # Ayush Shah GitHub profile: public-source research
 
-Researched 2026-09-26 and updated with Ayush's corrections on 2026-09-27 for a profile README at `github.com/ayush-shah`. Sources below are Ayush's public GitHub profile, public repositories, public upstream pull requests, and experience supplied directly by Ayush. PR totals are a dated snapshot; individual merged PRs are better durable evidence for README claims.
+Researched 2026-09-26 and updated with Ayush's corrections on 2026-09-27 for a profile README at `github.com/ayush-shah`. Sources below are Ayush's public GitHub profile, public repositories, public upstream pull requests, and experience supplied directly by Ayush. PR totals are a dated snapshot; individual merged PRs are better durable evidence for README claims. Employment wording reflects Ayush's subsequent clarification that Deuex is his employer and Collate is its client.
 
 ## Identity and positioning
 
-- [The GitHub profile](https://github.com/ayush-shah) identifies the account as **Ayush Shah** and lists **Mumbai, India**. Its bio and company field still named Deuex Solutions when first researched; Ayush directly corrected his current employer to **Collate**, where he says he has worked on OpenMetadata and Collate since 2021. Treat the direct correction as the current self-reported employment source. The public PR record does not establish an OpenMetadata maintainer or founder title.
-- The current lead is **software developer at Collate and OpenMetadata contributor since 2021**, with work across metadata ingestion, data quality, connectors, Python SDK, documentation, and the broader data platform. The technical contribution themes are supported by the [merged PR record](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests); employment and platform scope come from Ayush's direct account.
+- [The GitHub profile](https://github.com/ayush-shah) identifies the account as **Ayush Shah** and lists **Mumbai, India**. Ayush clarified that his employer is **Deuex**, where his title is **Solutions Engineer**; he works with client **Collate** as a **Software Engineer** on OpenMetadata. His Deuex company field is therefore correct, while the old bio was outdated. The public PR record does not establish an OpenMetadata maintainer or founder title.
+- The current lead is **backend and data platform engineer working on OpenMetadata since 2021**, with work across metadata ingestion, data quality, connectors, Python SDK, documentation, and the broader data platform. The technical contribution themes are supported by the [merged PR record](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests); employer, client role, and platform scope come from Ayush's direct account.
 - Public contributions to the main repository reach back to [PR #16, created August 2021 and merged August 2021](https://github.com/open-metadata/OpenMetadata/pull/16). The recent merged work includes [ingestion validation and migration PR #29566](https://github.com/open-metadata/OpenMetadata/pull/29566), merged September 2026. “Contributing to OpenMetadata since 2021” is supported.
 
 ## Public contribution footprint
@@ -58,7 +58,7 @@ Merged public PRs are concentrated in `OpenMetadata` (591), followed by public d
 | JavaScript, Node.js, Svelte, Vue/Nuxt | Original [HousieGame-Tambola](https://github.com/ayush-shah/HousieGame-Tambola) uses Svelte, Express, Socket.IO; original [link-shortener](https://github.com/ayush-shah/link-shortener) uses Nuxt/Vue and Express; original [cms-frontend](https://github.com/ayush-shah/cms-frontend) and [cms-backend](https://github.com/ayush-shah/cms-backend) use Svelte, Express, MongoDB/Mongoose | “Earlier side projects: Svelte and Vue/Nuxt with Node.js” |
 | GitHub Actions / release workflows | [Release branch workflow #30631](https://github.com/open-metadata/OpenMetadata/pull/30631) and [demo catalog CI in #73](https://github.com/open-metadata/openmetadata-demo/pull/73) | “CI and developer workflows” as a secondary theme |
 
-Do not infer React or TypeScript expertise from the upstream repository's primary language or a Playwright fixture. Collate employment and tenure are based on Ayush's direct correction, not inferred from the PRs.
+Do not infer React or TypeScript expertise from the upstream repository's primary language or a Playwright fixture. The Deuex employment and Collate client assignment are based on Ayush's direct clarification, not inferred from the PRs.
 
 ## Personal repositories: original work versus forks
 
@@ -74,7 +74,7 @@ The [owner-repositories listing](https://github.com/ayush-shah?tab=repositories)
 
 ## README-safe summary draft
 
-> I'm Ayush Shah, a software developer at Collate in Mumbai. Since 2021, I've worked on OpenMetadata and Collate, from OpenMetadata's early days. My work spans data governance, lineage, observability, discovery, Context Center, metadata ingestion, connectors, data quality, Python SDK, backend reliability, and documentation. My public work includes [Looker](https://github.com/open-metadata/OpenMetadata/pull/351) and [Tableau](https://github.com/open-metadata/OpenMetadata/pull/468) connectors, [RDS IAM authentication](https://github.com/open-metadata/OpenMetadata/pull/11937), [data lake profiling](https://github.com/open-metadata/OpenMetadata/pull/13017), [data-contract SDK methods](https://github.com/open-metadata/OpenMetadata/pull/26082), and [pipeline validation/migration](https://github.com/open-metadata/OpenMetadata/pull/29566).
+> I'm Ayush Shah, a Solutions Engineer at Deuex working as a Software Engineer with client Collate on OpenMetadata since 2021. Based in Mumbai, I work on metadata ingestion, data governance, lineage, observability, discovery, data quality, Python SDK, backend reliability, and documentation. My public work includes [RDS IAM authentication](https://github.com/open-metadata/OpenMetadata/pull/11937), [data lake profiling](https://github.com/open-metadata/OpenMetadata/pull/13017), [Databricks Unity Catalog quality support](https://github.com/open-metadata/OpenMetadata/pull/14424), and [pipeline validation/migration](https://github.com/open-metadata/OpenMetadata/pull/29566).
 
 This draft is intentionally short; the README can use separate, linked cards for the PR examples.
 
@@ -87,7 +87,7 @@ Ayush supplied these experience statements directly for the profile. They are se
 - AWS Secrets Manager, EC2, Application Load Balancer, Glue, RDS, and [Systems Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html).
 - Docker, Kubernetes, and Django.
 - Preferred tools: Claude Code, Codex, VS Code, and IntelliJ IDEA.
-- Current employer: Collate, working on OpenMetadata and Collate since 2021, from OpenMetadata's early days.
+- Current employer and title: Deuex, Solutions Engineer. Client assignment: Collate, working as a Software Engineer on OpenMetadata since 2021.
 - Work areas: data governance, lineage, observability, discovery, Context Center, root cause analysis, debugging, and bug fixes.
 - Coordinates five teammates: four in support and one in documentation; contributed extensively to `docs-om` and `docs-collate`.
 - GitHub Actions, Java, Dropwizard, OpenSearch, Elasticsearch, and OpenSearch Dashboards.
@@ -97,7 +97,7 @@ Ayush supplied these experience statements directly for the profile. They are se
 
 ## Caveats
 
-- GitHub bio/company/location are self-reported and may change. Ayush directly supplied his current employer, tenure, experience, team scope, and contact links. No public email, speaking history, degree, headshot, endorsements, or impact metrics were verified; do not invent them.
+- GitHub bio/company/location are self-reported and may change. Ayush directly supplied his Deuex employer and title, Collate client role, OpenMetadata tenure, experience, team scope, and contact links. No public email, speaking history, degree, headshot, endorsements, or impact metrics were verified; do not invent them.
 - A merged PR proves an accepted contribution at merge time, not exclusive or ongoing ownership of a connector, subsystem, or employer role. Some PRs include generated review summaries; the examples above were checked against merge status and changed file paths.
 - The exact PR count is a point-in-time search result. The `is:public` qualifier keeps the count scoped to publicly accessible repositories.
 - Original personal repositories are generally older and smaller than the upstream OpenMetadata work. Lead with upstream merged contributions; show one or two original side projects only if a personal-project section helps the design.
