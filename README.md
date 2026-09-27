@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I'm **Ayush Shah**, a software developer in Mumbai and an open-source contributor to [OpenMetadata](https://github.com/open-metadata/OpenMetadata) since 2021. I work on metadata ingestion, connectors, data quality, and the Python SDK. My public contributions range from dashboard integrations to cloud authentication, data contracts, and ingestion reliability.
+I'm **Ayush Shah**, a software developer in Mumbai and an open-source contributor to [OpenMetadata](https://github.com/open-metadata/OpenMetadata) since 2021. I work on metadata ingestion, connectors, data quality, and the Python SDK. My public contributions range from dashboard integrations to cloud authentication, data contracts, and ingestion reliability. My broader experience includes identity and SSO integrations, cloud data platforms, AWS infrastructure, and containerized backend services.
 
 I work at **Deuex Solutions** and previously worked at **Gracenote**.
 
@@ -30,6 +30,18 @@ Some contributions that show the breadth of that work:
 | 🧰 **SDK and backend reliability** | Added [Python SDK methods for data-contract retrieval and validation](https://github.com/open-metadata/OpenMetadata/pull/26082), [ingestion configuration validation and migration](https://github.com/open-metadata/OpenMetadata/pull/29566), and [parameterized SQL query construction](https://github.com/open-metadata/OpenMetadata/pull/24902). |
 
 Explore the wider record: [merged public PRs](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests) · [commits across open-metadata](https://github.com/search?q=author%3Aayush-shah+org%3Aopen-metadata&type=commits&ref=advsearch).
+
+## 🧭 Experience and preferred tools
+
+Beyond the public PRs above, I've worked with:
+
+| Area | Experience |
+| --- | --- |
+| 🔐 **Identity and access** | Okta and SSO integrations. |
+| ❄️ **Data and metadata** | Deep experience with Snowflake; Databricks, BigQuery, data lakes, and Amazon Redshift; Power BI and Tableau metadata. |
+| ☁️ **AWS** | Secrets Manager, EC2, Application Load Balancer (ALB), Glue, RDS, and Systems Manager Parameter Store. |
+| 🧱 **Backend and infrastructure** | Django, Docker, and Kubernetes. |
+| 🛠️ **Development tools** | Most comfortable with Claude Code, Codex, VS Code, and IntelliJ IDEA. |
 
 ## 🚀 Selected builds
 

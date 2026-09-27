@@ -78,6 +78,16 @@ The [owner-repositories listing](https://github.com/ayush-shah?tab=repositories)
 
 This draft is intentionally short; the README can use separate, linked cards for the PR examples.
 
+## Experience added by Ayush (2026-09-27)
+
+Ayush supplied these experience statements directly for the profile. They are self-reported; the linked PRs above document the public contribution examples.
+
+- Okta and SSO integration.
+- Deep Snowflake experience; Databricks, BigQuery, data lakes, Redshift, Power BI metadata, and Tableau metadata.
+- AWS Secrets Manager, EC2, Application Load Balancer, Glue, RDS, and [Systems Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html).
+- Docker, Kubernetes, and Django.
+- Preferred tools: Claude Code, Codex, VS Code, and IntelliJ IDEA.
+
 ## Caveats
 
 - GitHub bio/company/location are self-reported and may change. No website, LinkedIn, public email, speaking history, degree, or employer dates were verified from the account. Do not invent contact links, headshots, endorsements, or impact metrics.
