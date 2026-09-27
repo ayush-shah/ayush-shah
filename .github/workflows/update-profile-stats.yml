@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
-      - name: Refresh public PR counts
+      - name: Refresh public profile activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile_stats.py
