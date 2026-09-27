@@ -71,11 +71,7 @@ Connecting secure infrastructure to data services and reliable developer workflo
   <a href="https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&amp;type=pullrequests"><img src="./assets/merged-pr-activity.svg" alt="Merged public pull requests in the open-metadata organization over the latest six months" width="520" /></a>
 </p>
 
-The charts use [GitHub's public merged-PR search](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests). They count authored PRs merged in public `open-metadata` repositories; they are not a measure of code volume or project ownership. See the [refresh script](./scripts/update_profile_stats.py) and [scheduled workflow](./.github/workflows/update-profile-stats.yml).
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush-shah&amp;theme=transparent&amp;hide_border=true" alt="GitHub contribution streak activity" width="520" />
-</p>
+The cards use [GitHub's public merged-PR search](https://github.com/search?q=is%3Apr+author%3Aayush-shah+org%3Aopen-metadata+is%3Apublic+is%3Amerged&type=pullrequests). They count authored PRs merged in public `open-metadata` repositories; they are not a measure of code volume or project ownership. See the [refresh script](./scripts/update_profile_stats.py) and [scheduled workflow](./.github/workflows/update-profile-stats.yml).
 
 ## Beyond the code
 
